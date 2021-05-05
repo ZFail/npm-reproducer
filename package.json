@@ -1,0 +1,11 @@
+{
+  "name": "npm-reproducer",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "tsc -v"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.0"
+  }
+}
